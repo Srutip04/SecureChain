@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+  
+}
+.App-logo {
+  height: 40vmin;
+  }
+.App-header {
+  background-color:#00002b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+  
+}
+
+.footer{
+  background-color: #000000 ;
+  margin:0px auto;
+  padding: 20px 0px 0px 0px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: space-around;
+  color: white;
+}
+.jumbotron {
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: #9575CD ;
+  color:floralwhite;
+  
+}
+
+address{
+  font-size:80%;
+  margin:0px;
+  color:#0f0f0f;
+  
+}
+
+.navbar-dark {
+  background-color: #1C1C1C;
+}
+
+
+.part{
+  width: 27vw;
+  height: 65vh;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  width:100%;
+  justify-content: space-around;
+}
+
+StepProgressBar{
+  color: #9575CD;
+}
+
+.pri{
+  display: none;
+}
+
+.bg{
+  background-color: black;
+}
+.whiteButton{
+  background-color: red;
+  color: white;
+}
+.botton{
+  display: none;
+}

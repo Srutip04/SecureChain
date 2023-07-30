@@ -1,0 +1,26 @@
+{
+  "name": "securechain",
+  "version": "1.0.0",
+  "description": "Certificate Authentication System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srutip04/SecureChain.git"
+  },
+  "author": "Swapnil Kole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srutip04/SecureChain/issues"
+  },
+  "homepage": "https://github.com/srutip04/SecureChain#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.1",
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "dotenv": "^8.2.0",
+    "ipfs-http-client": "^33.1.1",
+    "openzepkole": "^1.0.5"
+  }
+}
